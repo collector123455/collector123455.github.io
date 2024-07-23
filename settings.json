@@ -4,12 +4,12 @@
     "subtitle": "얼굴로 보는 인공지능 동물상 테스트",
     "footerText": "&copy; 허석테크 2024. All Rights Reserved.",
     
-    "modelUrl": "https://teachablemachine.withgoogle.com/models/Cr_QaehzL/",
+    "modelUrl": "https://teachablemachine.withgoogle.com/models/0tJPX2Mo2/",
     "classDetails": [
         {
-            "name": "개(강아지)",
-            "title": "개(강아지)상",
-            "explain": "얼굴이 정말 개(강아지)같군요!",
+            "name": "개상",
+            "title": "개상",
+            "explain": "얼굴이 정말 개,강아지같군요!",
             "celeb": "ex) 불독",
             "color": "rgba(27, 175, 234, 1)"
         },
